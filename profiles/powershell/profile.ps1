@@ -68,6 +68,7 @@ if (-not (test-path env:\VSCODE_PID)) {
     $GitPromptSettings.BranchIdenticalStatusToForegroundColor = "DarkBlue"
     $GitPromptSettings.BranchAheadStatusForegroundColor = "DarkGreen"
     $GitPromptSettings.BranchBehindStatusForegroundColor = "DarkRed"
+    $GitPromptSettings.BranchForegroundColor = "DarkYellow"
     $GitPromptSettings.WorkingForegroundColor = "DarkYellow"
 }
 else {

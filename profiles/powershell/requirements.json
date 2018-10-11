@@ -1,0 +1,14 @@
+{
+    "name": "Powershell setup configurations.",
+    "profiles": [
+        "Microsoft.Powershell",
+        "Microsoft.VSCode"
+    ],
+    "dependencies": {
+        "modules": [
+            "PSConsoleTheme",
+            "posh-git",
+            "Jump.Location"
+        ]
+    }
+}
