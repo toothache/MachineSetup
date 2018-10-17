@@ -12,7 +12,13 @@ function Show-Welcome {
     Write-Host "Greetings, $curUser!" -foregroundColor $defaultForegroundColor
     Write-Host "It is: $($time.ToLongDateString())" -foregroundColor $defaultForegroundColor
     Write-Host "You're running PowerShell version: $psVersion" -foregroundColor $defaultForegroundColor
+    if (test-path env:\VSCODE*)
+    {
+        Write-Host "You're running Powershell inside VS code." -foregroundColor $defaultForegroundColor
+    }
+
     Write-Host "Your computer name is: $curComp" -foregroundColor $defaultForegroundColor
+    Write-Host "The host is: $($host.name)" -ForegroundColor $defaultForegroundColor
     Write-Host "Happy scripting!" `n -foregroundColor $defaultForegroundColor
 }
 
@@ -28,6 +34,10 @@ function Prompt {
     }
 
     $curDirectory = [System.IO.Path]::GetFileName($curPath)
+    if ($curDirectory -eq "") {
+        $curDirectory = $curPath
+    }
+    
     $prompt += Write-Prompt $curDirectory -NoNewline -ForegroundColor $directoryColor
 
     if (Test-Administrator) { # if elevated
@@ -55,7 +65,7 @@ function Prompt {
     Return " "
 }
 
-if (-not (test-path env:\VSCODE_PID)) {
+if (-not (test-path env:\VSCODE*)) {
     Import-Module PSConsoleTheme
     Set-ConsoleTheme 'Monokai'
 
