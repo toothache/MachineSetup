@@ -1,3 +1,7 @@
+if (test-path env:\SkipLoadProfile) {
+    return
+}
+
 function Test-Administrator {
     $user = [Security.Principal.WindowsIdentity]::GetCurrent();
     (New-Object Security.Principal.WindowsPrincipal $user).IsInRole([Security.Principal.WindowsBuiltinRole]::Administrator)
@@ -65,28 +69,29 @@ function Prompt {
     Return " "
 }
 
-if (-not (test-path env:\VSCODE*)) {
+function ChangeConsoleTheme()
+{
     Import-Module PSConsoleTheme
     Set-ConsoleTheme 'Monokai'
 
-    # PSConsoleTheme overrides color definitions
-    $defaultForegroundColor = "DarkGreen"
-    $directoryColor = "DarkBlue"
-    $emphasisColor = "DarkRed"
-
-    Import-Module posh-Git
     $GitPromptSettings.BranchIdenticalStatusToForegroundColor = "DarkBlue"
     $GitPromptSettings.BranchAheadStatusForegroundColor = "DarkGreen"
     $GitPromptSettings.BranchBehindStatusForegroundColor = "DarkRed"
     $GitPromptSettings.BranchForegroundColor = "DarkYellow"
     $GitPromptSettings.WorkingForegroundColor = "DarkYellow"
 }
-else {
-    $defaultForegroundColor = "Green"
-    $directoryColor = "Cyan"
-    $emphasisColor = "Red"
 
-    Import-Module posh-Git
+Import-Module Jump.Location
+Import-Module posh-git
+
+if (-not (test-path env:\VSCODE*) -and -not (test-path env:\SkipLoadTheme)) {
+    $defaultForegroundColor = "DarkGreen"
+    ChangeConsoleTheme
+}
+else {
+    Write-Host "Skip changing themes."
+    $defaultForegroundColor = "Green"
+
     $GitPromptSettings.BranchIdenticalStatusToForegroundColor = "Blue"
     $GitPromptSettings.BranchAheadStatusForegroundColor = "Green"
     $GitPromptSettings.BranchBehindStatusForegroundColor = "Red"
