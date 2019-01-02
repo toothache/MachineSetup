@@ -81,7 +81,7 @@ function ChangeConsoleTheme()
     $GitPromptSettings.WorkingForegroundColor = "DarkYellow"
 }
 
-Import-Module Jump.Location
+Import-Module ZLocation
 Import-Module posh-git
 
 if (-not (test-path env:\VSCODE*) -and -not (test-path env:\SkipLoadTheme)) {
