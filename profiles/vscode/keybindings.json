@@ -1,0 +1,9 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    { "key": "ctrl+alt+`", "command": "workbench.action.terminal.toggleTerminal" },
+    { "key": "alt+`", "command": "workbench.action.terminal.focus"},
+    { "key": "alt+`", "command": "workbench.action.focusActiveEditorGroup", "when": "terminalFocus"},
+    { "key": "ctrl+t m", "command": "workbench.action.toggleMaximizedPanel"},
+    { "key": "ctrl+t ctrl+l", "command": "editor.action.transformToLowercase", "when": "editorHasSelection && textInputFocus" },
+    { "key": "ctrl+t ctrl+u", "command": "editor.action.tranformToUppercase", "when": "editorHasSelection && textInputFocus" },
+]

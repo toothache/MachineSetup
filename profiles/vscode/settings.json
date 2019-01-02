@@ -1,0 +1,16 @@
+{
+    "editor.renderWhitespace": "all",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "files.associations": {
+        "SConscript": "python",
+        "SConstruct": "python"
+    },
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Monokai",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.scrollback": 10000,
+    "editor.renderControlCharacters": false,
+    "editor.minimap.enabled": false,
+    "window.smoothScrollingWorkaround": true,
+    "explorer.confirmDragAndDrop": false
+}
