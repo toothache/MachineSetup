@@ -1,0 +1,1833 @@
+{
+    "sha": "6deea3345bd14451510b6a9a4229107f6b9bf7fb",
+    "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/6deea3345bd14451510b6a9a4229107f6b9bf7fb",
+    "tree": [
+      {
+        "path": "L-DZ",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "e36da3837d6c37f4b829ffec009a0764f9fd8768",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/e36da3837d6c37f4b829ffec009a0764f9fd8768"
+      },
+      {
+        "path": "L-DZ/Bold-Italic",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "6cb30c4255814279e7ba245e4c0297392e7cf693",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/6cb30c4255814279e7ba245e4c0297392e7cf693"
+      },
+      {
+        "path": "L-DZ/Bold-Italic/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "800f068a4dfb3c96dce322e9472581a38bc363a7",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/800f068a4dfb3c96dce322e9472581a38bc363a7"
+      },
+      {
+        "path": "L-DZ/Bold-Italic/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "L-DZ/Bold-Italic/complete/Meslo LG L DZ Bold Italic Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "56bccd9438ba76f4f7efc5c2278df1fcda0eb30e",
+        "size": 1249352,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/56bccd9438ba76f4f7efc5c2278df1fcda0eb30e"
+      },
+      {
+        "path": "L-DZ/Bold-Italic/complete/Meslo LG L DZ Bold Italic Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "547270f53b1c4524821cf65a4338b53174dfb531",
+        "size": 1249336,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/547270f53b1c4524821cf65a4338b53174dfb531"
+      },
+      {
+        "path": "L-DZ/Bold-Italic/complete/Meslo LG L DZ Bold Italic Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9ad4d1f1519a7cde414753d10dff515626a027f0",
+        "size": 1281752,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/9ad4d1f1519a7cde414753d10dff515626a027f0"
+      },
+      {
+        "path": "L-DZ/Bold-Italic/complete/Meslo LG L DZ Bold Italic Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c37d0d6f8933a2cf02b2cf8ce1f43f39ea136596",
+        "size": 1281700,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/c37d0d6f8933a2cf02b2cf8ce1f43f39ea136596"
+      },
+      {
+        "path": "L-DZ/Bold-Italic/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "L-DZ/Bold-Italic/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "65eef91f995e6c3415006f879b4fb3725943df03",
+        "size": 289694,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/65eef91f995e6c3415006f879b4fb3725943df03"
+      },
+      {
+        "path": "L-DZ/Bold",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "8da3035cdc9feb70f9644ffc43eda42d5f69826e",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/8da3035cdc9feb70f9644ffc43eda42d5f69826e"
+      },
+      {
+        "path": "L-DZ/Bold/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "d8ddb9e31b64d24636ab29e105fc8711f4e3aba9",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/d8ddb9e31b64d24636ab29e105fc8711f4e3aba9"
+      },
+      {
+        "path": "L-DZ/Bold/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "L-DZ/Bold/complete/Meslo LG L DZ Bold Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "526af2cc053ad9eed987ec58d2bd51d9281dfd15",
+        "size": 1291092,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/526af2cc053ad9eed987ec58d2bd51d9281dfd15"
+      },
+      {
+        "path": "L-DZ/Bold/complete/Meslo LG L DZ Bold Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "05e5c6bb54434ec7aeaf3e1c28bb22e4d1ba259f",
+        "size": 1291092,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/05e5c6bb54434ec7aeaf3e1c28bb22e4d1ba259f"
+      },
+      {
+        "path": "L-DZ/Bold/complete/Meslo LG L DZ Bold Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "967f049566f8ab57b39e3f56a1f9264531ba1195",
+        "size": 1324020,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/967f049566f8ab57b39e3f56a1f9264531ba1195"
+      },
+      {
+        "path": "L-DZ/Bold/complete/Meslo LG L DZ Bold Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "4a97c6b2d2ec34b5cfd50d0b0f2f524223a22266",
+        "size": 1323984,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/4a97c6b2d2ec34b5cfd50d0b0f2f524223a22266"
+      },
+      {
+        "path": "L-DZ/Bold/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "L-DZ/Bold/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "5ffb2c40a399f21e40fc07be66a6275d53f6bdac",
+        "size": 275365,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/5ffb2c40a399f21e40fc07be66a6275d53f6bdac"
+      },
+      {
+        "path": "L-DZ/Italic",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "afe4b37d251c8340feb6a189546da9e5c18849f0",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/afe4b37d251c8340feb6a189546da9e5c18849f0"
+      },
+      {
+        "path": "L-DZ/Italic/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "e1c578bba4e12a7f442725e294676e1e29505ce4",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/e1c578bba4e12a7f442725e294676e1e29505ce4"
+      },
+      {
+        "path": "L-DZ/Italic/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "L-DZ/Italic/complete/Meslo LG L DZ Italic Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "aa0ea32c19397bc2b4278041fbbd33382c997be8",
+        "size": 1240612,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/aa0ea32c19397bc2b4278041fbbd33382c997be8"
+      },
+      {
+        "path": "L-DZ/Italic/complete/Meslo LG L DZ Italic Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "5cfccd355128e36ae3f52a7da7a18b8e1e43fab6",
+        "size": 1240616,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/5cfccd355128e36ae3f52a7da7a18b8e1e43fab6"
+      },
+      {
+        "path": "L-DZ/Italic/complete/Meslo LG L DZ Italic Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "99081da466d2d93acd4d4be0520eced728cb4146",
+        "size": 1273264,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/99081da466d2d93acd4d4be0520eced728cb4146"
+      },
+      {
+        "path": "L-DZ/Italic/complete/Meslo LG L DZ Italic Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d5425c5051746b71c505465e4339d30efe686b9d",
+        "size": 1273232,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d5425c5051746b71c505465e4339d30efe686b9d"
+      },
+      {
+        "path": "L-DZ/Italic/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "L-DZ/Italic/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "da8154c8bf8ccfeb07c8be8252769fbe67345046",
+        "size": 279459,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/da8154c8bf8ccfeb07c8be8252769fbe67345046"
+      },
+      {
+        "path": "L-DZ/Regular",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "f4dc344f0de309297e0eb5b0d35e638695609e5f",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/f4dc344f0de309297e0eb5b0d35e638695609e5f"
+      },
+      {
+        "path": "L-DZ/Regular/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "0c0a46de5b072fedfd0fd8e94d44c90a81b9991e",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/0c0a46de5b072fedfd0fd8e94d44c90a81b9991e"
+      },
+      {
+        "path": "L-DZ/Regular/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "L-DZ/Regular/complete/Meslo LG L DZ Regular Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d83b53ec81ef3640fbee66cafdb9278902bd6de5",
+        "size": 1281584,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d83b53ec81ef3640fbee66cafdb9278902bd6de5"
+      },
+      {
+        "path": "L-DZ/Regular/complete/Meslo LG L DZ Regular Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1936d8b309b1eb0a4a88983f804cae12244a29e7",
+        "size": 1281592,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/1936d8b309b1eb0a4a88983f804cae12244a29e7"
+      },
+      {
+        "path": "L-DZ/Regular/complete/Meslo LG L DZ Regular Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9b3b700f828dcb38d238ef045c51457f131ce0d0",
+        "size": 1314768,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/9b3b700f828dcb38d238ef045c51457f131ce0d0"
+      },
+      {
+        "path": "L-DZ/Regular/complete/Meslo LG L DZ Regular Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "75d8a832ef9336712613898ee6fc02ea97eff5d6",
+        "size": 1314740,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/75d8a832ef9336712613898ee6fc02ea97eff5d6"
+      },
+      {
+        "path": "L-DZ/Regular/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "L-DZ/Regular/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c5060fdfd60d415b6066fdd97192596a46f99055",
+        "size": 281506,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/c5060fdfd60d415b6066fdd97192596a46f99055"
+      },
+      {
+        "path": "L-DZ/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "6ffbdb7fd0feef5bcfb841a7c908c8754de1a25b",
+        "size": 2636,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/6ffbdb7fd0feef5bcfb841a7c908c8754de1a25b"
+      },
+      {
+        "path": "L-DZ/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "fd4ae0d75c1a02ebed901dbf3a6664951818c7df",
+        "size": 3141,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/fd4ae0d75c1a02ebed901dbf3a6664951818c7df"
+      },
+      {
+        "path": "L",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "2cdb96fa5d26cbe0da0e6a102fee81cece7b6300",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/2cdb96fa5d26cbe0da0e6a102fee81cece7b6300"
+      },
+      {
+        "path": "L/Bold-Italic",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "270c84bc93f4cf814a9c72d910291c1c53e144fb",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/270c84bc93f4cf814a9c72d910291c1c53e144fb"
+      },
+      {
+        "path": "L/Bold-Italic/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "2348eb073c00c5215da4078db1f55d7340c87e39",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/2348eb073c00c5215da4078db1f55d7340c87e39"
+      },
+      {
+        "path": "L/Bold-Italic/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "L/Bold-Italic/complete/Meslo LG L Bold Italic Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0543c38bc3695b8c26e541164e28708b2cba5256",
+        "size": 1249308,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0543c38bc3695b8c26e541164e28708b2cba5256"
+      },
+      {
+        "path": "L/Bold-Italic/complete/Meslo LG L Bold Italic Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "784aa5b049bae53f635d579ec212e04529fc88b1",
+        "size": 1249284,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/784aa5b049bae53f635d579ec212e04529fc88b1"
+      },
+      {
+        "path": "L/Bold-Italic/complete/Meslo LG L Bold Italic Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c5dc25ce43f53900c9ae060273e99a2df6dcaeac",
+        "size": 1281704,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/c5dc25ce43f53900c9ae060273e99a2df6dcaeac"
+      },
+      {
+        "path": "L/Bold-Italic/complete/Meslo LG L Bold Italic Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "f62343ce4cdaf590a48fe8957499f90131e8bab2",
+        "size": 1281648,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/f62343ce4cdaf590a48fe8957499f90131e8bab2"
+      },
+      {
+        "path": "L/Bold-Italic/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "L/Bold-Italic/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "6d25a04a762ab2f5088c5385ef51985a362dc59f",
+        "size": 283553,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/6d25a04a762ab2f5088c5385ef51985a362dc59f"
+      },
+      {
+        "path": "L/Bold",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "36c008b01c12ad83c983ea57e673edbcc11b5be7",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/36c008b01c12ad83c983ea57e673edbcc11b5be7"
+      },
+      {
+        "path": "L/Bold/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "add3eb3e2e4d5479fb9c8aef2444c169b6635f08",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/add3eb3e2e4d5479fb9c8aef2444c169b6635f08"
+      },
+      {
+        "path": "L/Bold/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "L/Bold/complete/Meslo LG L Bold Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b3ff83fc2665ec94147f7005e12becc79d690eb5",
+        "size": 1291044,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/b3ff83fc2665ec94147f7005e12becc79d690eb5"
+      },
+      {
+        "path": "L/Bold/complete/Meslo LG L Bold Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "84ae008a9ba15b0887c37810bf348906c9c45eab",
+        "size": 1291032,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/84ae008a9ba15b0887c37810bf348906c9c45eab"
+      },
+      {
+        "path": "L/Bold/complete/Meslo LG L Bold Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "5d89693c1ca94b205641ab7efc52def8a30da568",
+        "size": 1323968,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/5d89693c1ca94b205641ab7efc52def8a30da568"
+      },
+      {
+        "path": "L/Bold/complete/Meslo LG L Bold Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9eb944c90d466e28b2ce935af9bc8ed74c3ba15e",
+        "size": 1323928,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/9eb944c90d466e28b2ce935af9bc8ed74c3ba15e"
+      },
+      {
+        "path": "L/Bold/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "L/Bold/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "3261e8ca7976e3d586cd40ecc95353e8bd2b5dc7",
+        "size": 269224,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/3261e8ca7976e3d586cd40ecc95353e8bd2b5dc7"
+      },
+      {
+        "path": "L/Italic",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "a8dbbd6735587c1ff1fc4caaeecbc8fc62bd1516",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/a8dbbd6735587c1ff1fc4caaeecbc8fc62bd1516"
+      },
+      {
+        "path": "L/Italic/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "beb6a127ab38f300dfc9f88bc1021646ac2c5dff",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/beb6a127ab38f300dfc9f88bc1021646ac2c5dff"
+      },
+      {
+        "path": "L/Italic/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "L/Italic/complete/Meslo LG L Italic Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "29a26fa34efd99b1f312c4ddb9c3548e0176abc1",
+        "size": 1240560,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/29a26fa34efd99b1f312c4ddb9c3548e0176abc1"
+      },
+      {
+        "path": "L/Italic/complete/Meslo LG L Italic Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "6257914c36948f1daff2ed124d14dc68557cac47",
+        "size": 1240556,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/6257914c36948f1daff2ed124d14dc68557cac47"
+      },
+      {
+        "path": "L/Italic/complete/Meslo LG L Italic Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "39e19d6098493b19ce8abaef4da53ff3a7e81261",
+        "size": 1273208,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/39e19d6098493b19ce8abaef4da53ff3a7e81261"
+      },
+      {
+        "path": "L/Italic/complete/Meslo LG L Italic Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b1ece15c6bdfe797cb16004629257e769b555957",
+        "size": 1273172,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/b1ece15c6bdfe797cb16004629257e769b555957"
+      },
+      {
+        "path": "L/Italic/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "L/Italic/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "8a75fe55d5b55ed09ca6a097c6e732d512e3d820",
+        "size": 273318,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/8a75fe55d5b55ed09ca6a097c6e732d512e3d820"
+      },
+      {
+        "path": "L/Regular",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "e72fdc2ee6930bef1798c3ef537a74a98dd1cb9e",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/e72fdc2ee6930bef1798c3ef537a74a98dd1cb9e"
+      },
+      {
+        "path": "L/Regular/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "f98be0b41f2830b26ba77573d07cfa2c9eb01554",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/f98be0b41f2830b26ba77573d07cfa2c9eb01554"
+      },
+      {
+        "path": "L/Regular/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "L/Regular/complete/Meslo LG L Regular Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "4a889234be2657863aadcc210c3a2a8bd2bedae2",
+        "size": 1281536,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/4a889234be2657863aadcc210c3a2a8bd2bedae2"
+      },
+      {
+        "path": "L/Regular/complete/Meslo LG L Regular Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "a7997d997607f335d6b3b7d931b333cc15b11f11",
+        "size": 1281536,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/a7997d997607f335d6b3b7d931b333cc15b11f11"
+      },
+      {
+        "path": "L/Regular/complete/Meslo LG L Regular Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "7a81f5fb1db0e59c9290130011ab67c4f5c3d8b2",
+        "size": 1314716,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/7a81f5fb1db0e59c9290130011ab67c4f5c3d8b2"
+      },
+      {
+        "path": "L/Regular/complete/Meslo LG L Regular Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "5330dfa8fd87e058958c9a21eef77061b153acee",
+        "size": 1314684,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/5330dfa8fd87e058958c9a21eef77061b153acee"
+      },
+      {
+        "path": "L/Regular/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "L/Regular/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c5d94feaf6d805b11a1fa1f2519b31a574868c5b",
+        "size": 275365,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/c5d94feaf6d805b11a1fa1f2519b31a574868c5b"
+      },
+      {
+        "path": "L/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "6ffbdb7fd0feef5bcfb841a7c908c8754de1a25b",
+        "size": 2636,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/6ffbdb7fd0feef5bcfb841a7c908c8754de1a25b"
+      },
+      {
+        "path": "L/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "fd4ae0d75c1a02ebed901dbf3a6664951818c7df",
+        "size": 3141,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/fd4ae0d75c1a02ebed901dbf3a6664951818c7df"
+      },
+      {
+        "path": "M-DZ",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "8f562f988d724ad0e5e76ec70b5e5cdd78acf25c",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/8f562f988d724ad0e5e76ec70b5e5cdd78acf25c"
+      },
+      {
+        "path": "M-DZ/Bold-Italic",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "0489004c281f5b4f738021ee3bd53975f6e6f181",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/0489004c281f5b4f738021ee3bd53975f6e6f181"
+      },
+      {
+        "path": "M-DZ/Bold-Italic/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "2d1ffefe4c520650ed596e9ecf3797a3774fa2cf",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/2d1ffefe4c520650ed596e9ecf3797a3774fa2cf"
+      },
+      {
+        "path": "M-DZ/Bold-Italic/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "M-DZ/Bold-Italic/complete/Meslo LG M DZ Bold Italic Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c9fdaf883438c532b94e86cce8bf91580976626e",
+        "size": 1249316,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/c9fdaf883438c532b94e86cce8bf91580976626e"
+      },
+      {
+        "path": "M-DZ/Bold-Italic/complete/Meslo LG M DZ Bold Italic Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "5904e8260f200fc3906a35a1198ff543a22d516c",
+        "size": 1249300,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/5904e8260f200fc3906a35a1198ff543a22d516c"
+      },
+      {
+        "path": "M-DZ/Bold-Italic/complete/Meslo LG M DZ Bold Italic Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "bd2b0847a3fee6ecb76e33ccb2e610b79837ea8f",
+        "size": 1281728,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/bd2b0847a3fee6ecb76e33ccb2e610b79837ea8f"
+      },
+      {
+        "path": "M-DZ/Bold-Italic/complete/Meslo LG M DZ Bold Italic Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "239f9b2326560f762635e49b7ac11f5b01d3450e",
+        "size": 1281676,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/239f9b2326560f762635e49b7ac11f5b01d3450e"
+      },
+      {
+        "path": "M-DZ/Bold-Italic/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "M-DZ/Bold-Italic/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "520c74ab2b24d6574697e0fe3072973cdad3aae8",
+        "size": 289694,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/520c74ab2b24d6574697e0fe3072973cdad3aae8"
+      },
+      {
+        "path": "M-DZ/Bold",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "e7c1ec5ccc51c2fe810c3acec550d9a222fcbca2",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/e7c1ec5ccc51c2fe810c3acec550d9a222fcbca2"
+      },
+      {
+        "path": "M-DZ/Bold/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "24a87e5485b37c097d9095647234125ef60163de",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/24a87e5485b37c097d9095647234125ef60163de"
+      },
+      {
+        "path": "M-DZ/Bold/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "M-DZ/Bold/complete/Meslo LG M DZ Bold Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "5e594884b0d166ab7261107b02ea7b630ce16da9",
+        "size": 1291056,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/5e594884b0d166ab7261107b02ea7b630ce16da9"
+      },
+      {
+        "path": "M-DZ/Bold/complete/Meslo LG M DZ Bold Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "bd19da8a96ddac7cf731c9591f528815d34f0ae4",
+        "size": 1291056,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/bd19da8a96ddac7cf731c9591f528815d34f0ae4"
+      },
+      {
+        "path": "M-DZ/Bold/complete/Meslo LG M DZ Bold Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "4759b5a07e0514da96bd14a82a5eee2705ee98cb",
+        "size": 1323996,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/4759b5a07e0514da96bd14a82a5eee2705ee98cb"
+      },
+      {
+        "path": "M-DZ/Bold/complete/Meslo LG M DZ Bold Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "f803e728edc282dac9ff9f7117f97df17c2c86b9",
+        "size": 1323960,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/f803e728edc282dac9ff9f7117f97df17c2c86b9"
+      },
+      {
+        "path": "M-DZ/Bold/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "M-DZ/Bold/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9848b05df4d95d6d824f527abcecdc195092985a",
+        "size": 275365,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/9848b05df4d95d6d824f527abcecdc195092985a"
+      },
+      {
+        "path": "M-DZ/Italic",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "4be1347ce354d7c7df29eba8519082c61c5f8357",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/4be1347ce354d7c7df29eba8519082c61c5f8357"
+      },
+      {
+        "path": "M-DZ/Italic/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "d2c1b719fbd51e426e18c0024c090a3742bd048f",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/d2c1b719fbd51e426e18c0024c090a3742bd048f"
+      },
+      {
+        "path": "M-DZ/Italic/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "M-DZ/Italic/complete/Meslo LG M DZ Italic Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "41b847d39dc58858ca6235c6c809dfe2b4cc6fc9",
+        "size": 1240576,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/41b847d39dc58858ca6235c6c809dfe2b4cc6fc9"
+      },
+      {
+        "path": "M-DZ/Italic/complete/Meslo LG M DZ Italic Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c8b05a905af0b92f3907ff01d44ebd6808a80d91",
+        "size": 1240580,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/c8b05a905af0b92f3907ff01d44ebd6808a80d91"
+      },
+      {
+        "path": "M-DZ/Italic/complete/Meslo LG M DZ Italic Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "a26a7b192e2ac9cdcc51366c74ee4491f72d4a1d",
+        "size": 1273240,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/a26a7b192e2ac9cdcc51366c74ee4491f72d4a1d"
+      },
+      {
+        "path": "M-DZ/Italic/complete/Meslo LG M DZ Italic Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "2a33d635fb932ae0306c8bbb02f4fc6fe85e8735",
+        "size": 1273208,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/2a33d635fb932ae0306c8bbb02f4fc6fe85e8735"
+      },
+      {
+        "path": "M-DZ/Italic/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "M-DZ/Italic/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "234f219094a4d4865f5912c0d03f0c183fd5ba33",
+        "size": 279459,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/234f219094a4d4865f5912c0d03f0c183fd5ba33"
+      },
+      {
+        "path": "M-DZ/Regular",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "04fda8bf953a6239a10f940fbc7ce607ee780b41",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/04fda8bf953a6239a10f940fbc7ce607ee780b41"
+      },
+      {
+        "path": "M-DZ/Regular/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "db1315a1122ed0a0f16cd8f11eb1579992499aae",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/db1315a1122ed0a0f16cd8f11eb1579992499aae"
+      },
+      {
+        "path": "M-DZ/Regular/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "M-DZ/Regular/complete/Meslo LG M DZ Regular Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "badfe87134082a515c10acfde6ebaa47636a33dd",
+        "size": 1281548,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/badfe87134082a515c10acfde6ebaa47636a33dd"
+      },
+      {
+        "path": "M-DZ/Regular/complete/Meslo LG M DZ Regular Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "bf06fcada6df67c6ca1016570e2ad2398330299c",
+        "size": 1281556,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/bf06fcada6df67c6ca1016570e2ad2398330299c"
+      },
+      {
+        "path": "M-DZ/Regular/complete/Meslo LG M DZ Regular Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9fc8f1fe877114ffde52b3986493fadf49cea334",
+        "size": 1314744,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/9fc8f1fe877114ffde52b3986493fadf49cea334"
+      },
+      {
+        "path": "M-DZ/Regular/complete/Meslo LG M DZ Regular Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "54cc3c5a3c1607896ca7f51ffb34fac333918efb",
+        "size": 1314716,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/54cc3c5a3c1607896ca7f51ffb34fac333918efb"
+      },
+      {
+        "path": "M-DZ/Regular/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "M-DZ/Regular/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "28e9c2a24632f7baceabae873e4051a0df7cde37",
+        "size": 281506,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/28e9c2a24632f7baceabae873e4051a0df7cde37"
+      },
+      {
+        "path": "M-DZ/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "6ffbdb7fd0feef5bcfb841a7c908c8754de1a25b",
+        "size": 2636,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/6ffbdb7fd0feef5bcfb841a7c908c8754de1a25b"
+      },
+      {
+        "path": "M-DZ/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "fd4ae0d75c1a02ebed901dbf3a6664951818c7df",
+        "size": 3141,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/fd4ae0d75c1a02ebed901dbf3a6664951818c7df"
+      },
+      {
+        "path": "M",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "ccb2808739fd6cf666620048a1b3342662dd23f9",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/ccb2808739fd6cf666620048a1b3342662dd23f9"
+      },
+      {
+        "path": "M/Bold-Italic",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "c7f403f5e14925249258c76159fb0689d686f6d2",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/c7f403f5e14925249258c76159fb0689d686f6d2"
+      },
+      {
+        "path": "M/Bold-Italic/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "55e867fd24b11aaf310705dd1396b669b4776851",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/55e867fd24b11aaf310705dd1396b669b4776851"
+      },
+      {
+        "path": "M/Bold-Italic/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "M/Bold-Italic/complete/Meslo LG M Bold Italic Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1de66d7fdd10759a4a9d94c35a16efd4b255f2e5",
+        "size": 1249272,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/1de66d7fdd10759a4a9d94c35a16efd4b255f2e5"
+      },
+      {
+        "path": "M/Bold-Italic/complete/Meslo LG M Bold Italic Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "ff884d9e44d002ea3061a52451f5c67b7105ba79",
+        "size": 1249248,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/ff884d9e44d002ea3061a52451f5c67b7105ba79"
+      },
+      {
+        "path": "M/Bold-Italic/complete/Meslo LG M Bold Italic Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b6de3698993e45d3a82d7b5ae5d9872f73153a00",
+        "size": 1281680,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/b6de3698993e45d3a82d7b5ae5d9872f73153a00"
+      },
+      {
+        "path": "M/Bold-Italic/complete/Meslo LG M Bold Italic Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "4c8d20cad01de2ec58533016fb311fcfb0381a9e",
+        "size": 1281624,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/4c8d20cad01de2ec58533016fb311fcfb0381a9e"
+      },
+      {
+        "path": "M/Bold-Italic/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "M/Bold-Italic/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "010be0fb3170fdb4236ceb8f6d7e017b9c5e634c",
+        "size": 283553,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/010be0fb3170fdb4236ceb8f6d7e017b9c5e634c"
+      },
+      {
+        "path": "M/Bold",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "6641f8e7d2fe12cbd02320312d78d99eff2f3c89",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/6641f8e7d2fe12cbd02320312d78d99eff2f3c89"
+      },
+      {
+        "path": "M/Bold/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "8615f4e809d5d25934ffb870b8dc8d4cbf5c3716",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/8615f4e809d5d25934ffb870b8dc8d4cbf5c3716"
+      },
+      {
+        "path": "M/Bold/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "M/Bold/complete/Meslo LG M Bold Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "4ee406c621e1be09a2ed24b9f6abce6767986451",
+        "size": 1291008,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/4ee406c621e1be09a2ed24b9f6abce6767986451"
+      },
+      {
+        "path": "M/Bold/complete/Meslo LG M Bold Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "7dd9cfa180e6ad2c03f854fc74814b26619f9ebe",
+        "size": 1290996,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/7dd9cfa180e6ad2c03f854fc74814b26619f9ebe"
+      },
+      {
+        "path": "M/Bold/complete/Meslo LG M Bold Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9f5e00bd41bf641393543c7fbffbea92c0e92b0f",
+        "size": 1323944,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/9f5e00bd41bf641393543c7fbffbea92c0e92b0f"
+      },
+      {
+        "path": "M/Bold/complete/Meslo LG M Bold Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "72d818a7e7e2201ec4df7af5b347880673bc6fb8",
+        "size": 1323904,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/72d818a7e7e2201ec4df7af5b347880673bc6fb8"
+      },
+      {
+        "path": "M/Bold/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "M/Bold/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "68fb5847ccdf3451152bd52efd5834b481e92747",
+        "size": 269224,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/68fb5847ccdf3451152bd52efd5834b481e92747"
+      },
+      {
+        "path": "M/Italic",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "f002ebe4fdff842d0c0b5912606c5213e65f56be",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/f002ebe4fdff842d0c0b5912606c5213e65f56be"
+      },
+      {
+        "path": "M/Italic/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "89e7a14387b180ee34df011d4ff225a88e018179",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/89e7a14387b180ee34df011d4ff225a88e018179"
+      },
+      {
+        "path": "M/Italic/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "M/Italic/complete/Meslo LG M Italic Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "27bf299d13bea9f037e4a5d67d744eca1963211a",
+        "size": 1240524,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/27bf299d13bea9f037e4a5d67d744eca1963211a"
+      },
+      {
+        "path": "M/Italic/complete/Meslo LG M Italic Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "97dbd9cd0c55d247e5ccdef76eab455f7e80e03c",
+        "size": 1240520,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/97dbd9cd0c55d247e5ccdef76eab455f7e80e03c"
+      },
+      {
+        "path": "M/Italic/complete/Meslo LG M Italic Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "aa2d83633ff865be71317de289e4d42cc8ea2b9f",
+        "size": 1273184,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/aa2d83633ff865be71317de289e4d42cc8ea2b9f"
+      },
+      {
+        "path": "M/Italic/complete/Meslo LG M Italic Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c531d402de5bb8b8fd0ceb341feccc1329e93e7b",
+        "size": 1273148,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/c531d402de5bb8b8fd0ceb341feccc1329e93e7b"
+      },
+      {
+        "path": "M/Italic/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "M/Italic/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1e6e3bcd2de1a2c05632c06918ccbdfc305bf9bd",
+        "size": 273318,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/1e6e3bcd2de1a2c05632c06918ccbdfc305bf9bd"
+      },
+      {
+        "path": "M/Regular",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "8700aad42955ff87a1ae1cf2baf1a1d78e4f8a9e",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/8700aad42955ff87a1ae1cf2baf1a1d78e4f8a9e"
+      },
+      {
+        "path": "M/Regular/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "559f23e4365a97f762f70691c769357650eaf2bc",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/559f23e4365a97f762f70691c769357650eaf2bc"
+      },
+      {
+        "path": "M/Regular/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "M/Regular/complete/Meslo LG M Regular Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0705610ceb4ae32f76a5bf483f0d3e950731ff81",
+        "size": 1281500,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0705610ceb4ae32f76a5bf483f0d3e950731ff81"
+      },
+      {
+        "path": "M/Regular/complete/Meslo LG M Regular Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "4a29108bf902b6309a38a975895efbc0aa67dae9",
+        "size": 1281500,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/4a29108bf902b6309a38a975895efbc0aa67dae9"
+      },
+      {
+        "path": "M/Regular/complete/Meslo LG M Regular Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "bfd0e322db5e3b505637ee4ee5507be8bc204128",
+        "size": 1314692,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/bfd0e322db5e3b505637ee4ee5507be8bc204128"
+      },
+      {
+        "path": "M/Regular/complete/Meslo LG M Regular Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "a576c88a49d6c09eadac0f376f51730929c15d67",
+        "size": 1314660,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/a576c88a49d6c09eadac0f376f51730929c15d67"
+      },
+      {
+        "path": "M/Regular/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "M/Regular/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "f29b15315971280828065609a51a042ccc4fc9d6",
+        "size": 275365,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/f29b15315971280828065609a51a042ccc4fc9d6"
+      },
+      {
+        "path": "M/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "6ffbdb7fd0feef5bcfb841a7c908c8754de1a25b",
+        "size": 2636,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/6ffbdb7fd0feef5bcfb841a7c908c8754de1a25b"
+      },
+      {
+        "path": "M/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "fd4ae0d75c1a02ebed901dbf3a6664951818c7df",
+        "size": 3141,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/fd4ae0d75c1a02ebed901dbf3a6664951818c7df"
+      },
+      {
+        "path": "S-DZ",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "20815555e9b3ff6fe6a340dd3dc12bb94638c6b8",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/20815555e9b3ff6fe6a340dd3dc12bb94638c6b8"
+      },
+      {
+        "path": "S-DZ/Bold-Italic",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "0426a88dfcd072950c4cc8d4ab0171abdd1afca8",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/0426a88dfcd072950c4cc8d4ab0171abdd1afca8"
+      },
+      {
+        "path": "S-DZ/Bold-Italic/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "b1fdffea166bde48b3aeb85590c5b5ba12634583",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/b1fdffea166bde48b3aeb85590c5b5ba12634583"
+      },
+      {
+        "path": "S-DZ/Bold-Italic/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "S-DZ/Bold-Italic/complete/Meslo LG S DZ Bold Italic Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "732a38ac10b3cac6fa40e3db692ac88f62252c7f",
+        "size": 1249284,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/732a38ac10b3cac6fa40e3db692ac88f62252c7f"
+      },
+      {
+        "path": "S-DZ/Bold-Italic/complete/Meslo LG S DZ Bold Italic Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d787fa22525429db039392dc92118946ef35e437",
+        "size": 1249268,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d787fa22525429db039392dc92118946ef35e437"
+      },
+      {
+        "path": "S-DZ/Bold-Italic/complete/Meslo LG S DZ Bold Italic Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "b1a07b0367aa790a877e5d74c14bccdbb7615b06",
+        "size": 1281692,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/b1a07b0367aa790a877e5d74c14bccdbb7615b06"
+      },
+      {
+        "path": "S-DZ/Bold-Italic/complete/Meslo LG S DZ Bold Italic Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c0f43bff443865c35f6319c257352f691e069d32",
+        "size": 1281640,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/c0f43bff443865c35f6319c257352f691e069d32"
+      },
+      {
+        "path": "S-DZ/Bold-Italic/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "S-DZ/Bold-Italic/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "14f0b4fd2a5e7d6cad12ca223ac5b312ae89d632",
+        "size": 289694,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/14f0b4fd2a5e7d6cad12ca223ac5b312ae89d632"
+      },
+      {
+        "path": "S-DZ/Bold",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "c859a12d81121e66e6671621413b3134f81ebab6",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/c859a12d81121e66e6671621413b3134f81ebab6"
+      },
+      {
+        "path": "S-DZ/Bold/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "763e788490e23b8098fe26c33a8741535bf8f259",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/763e788490e23b8098fe26c33a8741535bf8f259"
+      },
+      {
+        "path": "S-DZ/Bold/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "S-DZ/Bold/complete/Meslo LG S DZ Bold Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "aedbdc5ec93b76464047a42b780b9616574176e2",
+        "size": 1291024,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/aedbdc5ec93b76464047a42b780b9616574176e2"
+      },
+      {
+        "path": "S-DZ/Bold/complete/Meslo LG S DZ Bold Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "977272e4c81760533bfe88ff0ace6133f232128e",
+        "size": 1291024,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/977272e4c81760533bfe88ff0ace6133f232128e"
+      },
+      {
+        "path": "S-DZ/Bold/complete/Meslo LG S DZ Bold Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "3fd7867bf3f3fc6a5b045dfdf756fa06ea82152c",
+        "size": 1323960,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/3fd7867bf3f3fc6a5b045dfdf756fa06ea82152c"
+      },
+      {
+        "path": "S-DZ/Bold/complete/Meslo LG S DZ Bold Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "dbb5eb31470f4d01982dae3176b755c677410af1",
+        "size": 1323924,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/dbb5eb31470f4d01982dae3176b755c677410af1"
+      },
+      {
+        "path": "S-DZ/Bold/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "S-DZ/Bold/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e1f20021562c34ccab93a0c45b763f02d10f5b36",
+        "size": 275365,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/e1f20021562c34ccab93a0c45b763f02d10f5b36"
+      },
+      {
+        "path": "S-DZ/Italic",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "4a7872d400748cf7b57b2d03c63159d7a96f341f",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/4a7872d400748cf7b57b2d03c63159d7a96f341f"
+      },
+      {
+        "path": "S-DZ/Italic/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "f83d35d950df216f2dde93d2041fdeae08c3e885",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/f83d35d950df216f2dde93d2041fdeae08c3e885"
+      },
+      {
+        "path": "S-DZ/Italic/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "S-DZ/Italic/complete/Meslo LG S DZ Italic Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "88d842ddb9bacc3ba986a7398990c4fbd01cf3b0",
+        "size": 1240544,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/88d842ddb9bacc3ba986a7398990c4fbd01cf3b0"
+      },
+      {
+        "path": "S-DZ/Italic/complete/Meslo LG S DZ Italic Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "055a6b99adf71348924038d392062116e1d8c268",
+        "size": 1240548,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/055a6b99adf71348924038d392062116e1d8c268"
+      },
+      {
+        "path": "S-DZ/Italic/complete/Meslo LG S DZ Italic Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0c203d59c5bc614fb26d3bbd3ae35e81da71a0ff",
+        "size": 1273204,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0c203d59c5bc614fb26d3bbd3ae35e81da71a0ff"
+      },
+      {
+        "path": "S-DZ/Italic/complete/Meslo LG S DZ Italic Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "9c1d25697a2ab0bc6159d0aa902d8bdd6ad8f4ff",
+        "size": 1273172,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/9c1d25697a2ab0bc6159d0aa902d8bdd6ad8f4ff"
+      },
+      {
+        "path": "S-DZ/Italic/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "S-DZ/Italic/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d0181172a566353bc8bf23d9b1e58a365e7c23b1",
+        "size": 279459,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d0181172a566353bc8bf23d9b1e58a365e7c23b1"
+      },
+      {
+        "path": "S-DZ/Regular",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "4e989578267a04f0446e4fe740d3b35b523f2909",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/4e989578267a04f0446e4fe740d3b35b523f2909"
+      },
+      {
+        "path": "S-DZ/Regular/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "c13fc32b4baf3c6d8684455af03b204a56d42627",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/c13fc32b4baf3c6d8684455af03b204a56d42627"
+      },
+      {
+        "path": "S-DZ/Regular/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "S-DZ/Regular/complete/Meslo LG S DZ Regular Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "e8c2a77e0752bc0971fbaf624af09b34156c47b0",
+        "size": 1281516,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/e8c2a77e0752bc0971fbaf624af09b34156c47b0"
+      },
+      {
+        "path": "S-DZ/Regular/complete/Meslo LG S DZ Regular Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d824963a8df66d9ac49f1ec9c8e5beeeba03a271",
+        "size": 1281524,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d824963a8df66d9ac49f1ec9c8e5beeeba03a271"
+      },
+      {
+        "path": "S-DZ/Regular/complete/Meslo LG S DZ Regular Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c0f06b060bc1012e228d84d0ce9b4f1349b9c774",
+        "size": 1314708,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/c0f06b060bc1012e228d84d0ce9b4f1349b9c774"
+      },
+      {
+        "path": "S-DZ/Regular/complete/Meslo LG S DZ Regular Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d6ac0fab609eddcce2cc43d5fe8b5ba924b16125",
+        "size": 1314680,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d6ac0fab609eddcce2cc43d5fe8b5ba924b16125"
+      },
+      {
+        "path": "S-DZ/Regular/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "S-DZ/Regular/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "6f75a1e121580c08572ec0bb2441e152ecdf6c03",
+        "size": 281506,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/6f75a1e121580c08572ec0bb2441e152ecdf6c03"
+      },
+      {
+        "path": "S-DZ/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "6ffbdb7fd0feef5bcfb841a7c908c8754de1a25b",
+        "size": 2636,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/6ffbdb7fd0feef5bcfb841a7c908c8754de1a25b"
+      },
+      {
+        "path": "S-DZ/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "fd4ae0d75c1a02ebed901dbf3a6664951818c7df",
+        "size": 3141,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/fd4ae0d75c1a02ebed901dbf3a6664951818c7df"
+      },
+      {
+        "path": "S",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "e9f889f067457fa25ddd19662eb2b53aee9cfacd",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/e9f889f067457fa25ddd19662eb2b53aee9cfacd"
+      },
+      {
+        "path": "S/Bold-Italic",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "e39b83f04603411a52d0bc4305f657742d8e01c0",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/e39b83f04603411a52d0bc4305f657742d8e01c0"
+      },
+      {
+        "path": "S/Bold-Italic/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "a878cf7de54afb1378580e188b42d6449ba7fafa",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/a878cf7de54afb1378580e188b42d6449ba7fafa"
+      },
+      {
+        "path": "S/Bold-Italic/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "S/Bold-Italic/complete/Meslo LG S Bold Italic Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "66edb5850ad18377711d3925154ee76b7f0b426c",
+        "size": 1249240,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/66edb5850ad18377711d3925154ee76b7f0b426c"
+      },
+      {
+        "path": "S/Bold-Italic/complete/Meslo LG S Bold Italic Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d5736ee2062b4f83095bca499142d19cc4652e30",
+        "size": 1249216,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d5736ee2062b4f83095bca499142d19cc4652e30"
+      },
+      {
+        "path": "S/Bold-Italic/complete/Meslo LG S Bold Italic Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "4d014686df6bdd74dbfa5ff2f6611cc069299faf",
+        "size": 1281644,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/4d014686df6bdd74dbfa5ff2f6611cc069299faf"
+      },
+      {
+        "path": "S/Bold-Italic/complete/Meslo LG S Bold Italic Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1adc22cadbe0c161ce3af912a2902ea6dd4f4137",
+        "size": 1281588,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/1adc22cadbe0c161ce3af912a2902ea6dd4f4137"
+      },
+      {
+        "path": "S/Bold-Italic/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "S/Bold-Italic/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "3e760a5ba2f63887d0b82a3e29274a0cc604ec24",
+        "size": 283553,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/3e760a5ba2f63887d0b82a3e29274a0cc604ec24"
+      },
+      {
+        "path": "S/Bold",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "247fb5863df9b2deb4957a2e22dce0d76dfe2ef9",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/247fb5863df9b2deb4957a2e22dce0d76dfe2ef9"
+      },
+      {
+        "path": "S/Bold/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "5eaa6d72429796da59d4632bd0bf8d54cd6caac4",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/5eaa6d72429796da59d4632bd0bf8d54cd6caac4"
+      },
+      {
+        "path": "S/Bold/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "S/Bold/complete/Meslo LG S Bold Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "f8aa35fad0dd7970a360475b9b1a83967e867cfd",
+        "size": 1290976,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/f8aa35fad0dd7970a360475b9b1a83967e867cfd"
+      },
+      {
+        "path": "S/Bold/complete/Meslo LG S Bold Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "26955db9135ae8db5f32a39a42307ef9107f2973",
+        "size": 1290964,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/26955db9135ae8db5f32a39a42307ef9107f2973"
+      },
+      {
+        "path": "S/Bold/complete/Meslo LG S Bold Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "26c068593ce8b2cd20da55e08362c867dc359585",
+        "size": 1323908,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/26c068593ce8b2cd20da55e08362c867dc359585"
+      },
+      {
+        "path": "S/Bold/complete/Meslo LG S Bold Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "70831ac4e1a96b7180dd3f68e25fe30f6959f350",
+        "size": 1323868,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/70831ac4e1a96b7180dd3f68e25fe30f6959f350"
+      },
+      {
+        "path": "S/Bold/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "S/Bold/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "86358acb083da50edf64675ab067bb74eec5cc83",
+        "size": 269224,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/86358acb083da50edf64675ab067bb74eec5cc83"
+      },
+      {
+        "path": "S/Italic",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "2b08b698a9d2f1a7a58519833c3e6104c1c7032f",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/2b08b698a9d2f1a7a58519833c3e6104c1c7032f"
+      },
+      {
+        "path": "S/Italic/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "686c555bc7022a05b36a18081b093ae59b2859f0",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/686c555bc7022a05b36a18081b093ae59b2859f0"
+      },
+      {
+        "path": "S/Italic/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "S/Italic/complete/Meslo LG S Italic Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c417f2422d46ee88ce192895f5389cff8e09f4f3",
+        "size": 1240492,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/c417f2422d46ee88ce192895f5389cff8e09f4f3"
+      },
+      {
+        "path": "S/Italic/complete/Meslo LG S Italic Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "c256c959141df9940830ec7d4ae6b27ac5f795e8",
+        "size": 1240488,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/c256c959141df9940830ec7d4ae6b27ac5f795e8"
+      },
+      {
+        "path": "S/Italic/complete/Meslo LG S Italic Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "1f356a1b917045ce501259ac7391be1d918c7334",
+        "size": 1273148,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/1f356a1b917045ce501259ac7391be1d918c7334"
+      },
+      {
+        "path": "S/Italic/complete/Meslo LG S Italic Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "88e426c321d749d138dd2e908b6aa0798c1e3c54",
+        "size": 1273112,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/88e426c321d749d138dd2e908b6aa0798c1e3c54"
+      },
+      {
+        "path": "S/Italic/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "S/Italic/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "aa70e701cf7fbf5f74ba2e93d4a2472100719a37",
+        "size": 273318,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/aa70e701cf7fbf5f74ba2e93d4a2472100719a37"
+      },
+      {
+        "path": "S/Regular",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "10085ce7156e34d2956cb0b0f4187891d33dfc33",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/10085ce7156e34d2956cb0b0f4187891d33dfc33"
+      },
+      {
+        "path": "S/Regular/complete",
+        "mode": "040000",
+        "type": "tree",
+        "sha": "8622564c0da17d24748a78ee488eeab8e7fa3383",
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/trees/8622564c0da17d24748a78ee488eeab8e7fa3383"
+      },
+      {
+        "path": "S/Regular/complete/LICENSE.txt",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "0300a76ab6746b6effcea96441617e9e889d8576",
+        "size": 573,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/0300a76ab6746b6effcea96441617e9e889d8576"
+      },
+      {
+        "path": "S/Regular/complete/Meslo LG S Regular Nerd Font Complete Mono Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "4dd3d7f4ad47e11b26b9c954ae79114e447c8e0e",
+        "size": 1281468,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/4dd3d7f4ad47e11b26b9c954ae79114e447c8e0e"
+      },
+      {
+        "path": "S/Regular/complete/Meslo LG S Regular Nerd Font Complete Mono.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "bd5fdb839a57193e8d361470b1e7a89b534a673e",
+        "size": 1281468,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/bd5fdb839a57193e8d361470b1e7a89b534a673e"
+      },
+      {
+        "path": "S/Regular/complete/Meslo LG S Regular Nerd Font Complete Windows Compatible.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "7338809709e33f87deca70bbe6e62e462b0bf0fe",
+        "size": 1314656,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/7338809709e33f87deca70bbe6e62e462b0bf0fe"
+      },
+      {
+        "path": "S/Regular/complete/Meslo LG S Regular Nerd Font Complete.ttf",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "cb58d4ae93d86b5af18d20da882523bd3901c17b",
+        "size": 1314624,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/cb58d4ae93d86b5af18d20da882523bd3901c17b"
+      },
+      {
+        "path": "S/Regular/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "d2ea4c0acd21b44246ec1e84f12be389a365df1a",
+        "size": 2489,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/d2ea4c0acd21b44246ec1e84f12be389a365df1a"
+      },
+      {
+        "path": "S/Regular/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "2b3675ec5427090bd968d4b7500abef30798dc1a",
+        "size": 275365,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/2b3675ec5427090bd968d4b7500abef30798dc1a"
+      },
+      {
+        "path": "S/font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "6ffbdb7fd0feef5bcfb841a7c908c8754de1a25b",
+        "size": 2636,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/6ffbdb7fd0feef5bcfb841a7c908c8754de1a25b"
+      },
+      {
+        "path": "S/readme.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "fd4ae0d75c1a02ebed901dbf3a6664951818c7df",
+        "size": 3141,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/fd4ae0d75c1a02ebed901dbf3a6664951818c7df"
+      },
+      {
+        "path": "font-info.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "6ffbdb7fd0feef5bcfb841a7c908c8754de1a25b",
+        "size": 2636,
+        "url": "https://api.github.com/repos/ryanoasis/nerd-fonts/git/blobs/6ffbdb7fd0feef5bcfb841a7c908c8754de1a25b"
+      }
+    ],
+    "truncated": false
+  }
