@@ -7,16 +7,10 @@
     "dependencies": {
         "modules": [
             {
-                "name": "PSConsoleTheme",
-                "provider": {
-                    "type": "git",
-                    "repo": "https://github.com/toothache/PSConsoleTheme.git",
-                    "branch": "fix_set_theme",
-                    "path": "PSConsoleTheme"
-                }
+                "name": "posh-git"
             },
             {
-                "name": "posh-git"
+                "name": "oh-my-posh"
             },
             {
                 "name": "ZLocation"
