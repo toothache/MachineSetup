@@ -11,6 +11,6 @@
     "terminal.integrated.scrollback": 10000,
     "editor.renderControlCharacters": false,
     "editor.minimap.enabled": false,
-    "window.smoothScrollingWorkaround": true,
-    "explorer.confirmDragAndDrop": false
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.fontFamily": "MesloLGM NF"
 }
