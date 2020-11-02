@@ -17,7 +17,7 @@ function Copy-Profile([string] $name) {
     $profileFullPath = (Join-Path ([System.IO.Path]::GetDirectoryName($profile)) $filename)
 
     Write-Host "Install $name into $profileFullPath."
-    Copy-Item -path profile.ps1 -Destination $profileFullPath
+    Copy-Item -path (Join-Path $PSScriptRoot profile.ps1) -Destination $profileFullPath
 }
 
 function Copy-Module([string]$path) {
@@ -98,3 +98,6 @@ foreach ($profilename in Get-ChildItem (Join-Path $PSScriptRoot ../vscode)) {
     Write-Host $profilename.FullName
     Copy-VSCodeProfile($profilename.FullName)
 }
+
+# iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
+
